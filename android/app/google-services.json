@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459378732635",
+    "project_id": "robloxhackers-lol",
+    "storage_bucket": "robloxhackers-lol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459378732635:android:1e591864ea3ba60072997e",
+        "android_client_info": {
+          "package_name": "com.nrmu.robloxhackers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459378732635-cacvgcj12htt5rn0h4bidd025bt8fkn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6xkmLUn_8pojHEP5-0fpwMYPTNUjp_jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459378732635-cacvgcj12htt5rn0h4bidd025bt8fkn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
