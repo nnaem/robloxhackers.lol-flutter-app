@@ -1,0 +1,37 @@
+name: robloxhackers
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^5.0.1
+  firebase_auth: ^5.1.0
+  firebase_core: ^3.1.0
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_markdown: ^0.7.2
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/Windows.png
+    - assets/images/Android.png
+    - assets/images/MacOS.png
+    - assets/images/IOS.png
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
